@@ -12,3 +12,4 @@ this is the [notebook](https://github.com/Jadenmachado/technical-discussion/blob
 
 
 ### Image
+"C:\Users\macha\OneDrive\Pictures\Screenshots\Screenshot (67).png"
